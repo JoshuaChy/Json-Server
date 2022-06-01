@@ -1,0 +1,40 @@
+{
+  "TodoList": [
+    {
+      "id": 667,
+      "text": "Math Exam",
+      "day": "Monday, Apr 18",
+      "reminder": true
+    },
+    {
+      "id": 9016,
+      "text": "Doctors Appointment",
+      "day": "Monday, Apr 19",
+      "reminder": true
+    },
+    {
+      "id": 7746,
+      "text": "Meeting at School",
+      "day": "Monday, Apr 19",
+      "reminder": false
+    },
+    {
+      "id": 6329,
+      "text": "Math",
+      "day": "Thursday, June 2, 2022",
+      "reminder": true
+    },
+    {
+      "id": 1136,
+      "text": "Science",
+      "day": "Friday, June 3, 2022",
+      "reminder": false
+    },
+    {
+      "id": 3212,
+      "text": "Hello",
+      "day": "Hsjwhshs",
+      "reminder": true
+    }
+  ]
+}
